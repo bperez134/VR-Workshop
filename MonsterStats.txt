@@ -1,0 +1,11 @@
+{
+    "monster": [
+        {
+            "name" : "Balloon",
+            "lvl" : 1,
+            "health" : 10,
+            "attack" : 2,
+            "exp" : 5
+        }
+    ]
+}

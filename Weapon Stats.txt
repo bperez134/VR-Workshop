@@ -1,0 +1,12 @@
+{
+    "weapon": [
+      {
+          "name" : "Ring",
+          "damage" : 1          
+      },
+      {
+          "name" : "Bullet",
+          "damage" : 2
+      }
+    ]
+}
